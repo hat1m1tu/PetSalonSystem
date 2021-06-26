@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+form{
+  background-color: #eaeaea;
+  padding:0px 0px 0px 10px;
+}
+
+form dl dt{
+  width: 165px;
+  padding: 0;
+  float:left;
+  clear:both;
+}
+
+form dl dd{
+  padding: 0;
+}
+
+input[type="text"] { width: 50%; }
